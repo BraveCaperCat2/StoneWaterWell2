@@ -1,0 +1,11 @@
+{
+	"author" : "bSun0000, 0.15 update support from ElecNinja, 0.16 update as offshore pump by Roy, 2.20.2 jamiech1, current maintance by BCC",
+	"dependencies" : [ "base >= 2.0.0" ],
+	"description" : "A water well to get water anywhere.",
+	"factorio_version" : "2.0",
+	"homepage" : "https://forums.factorio.com/viewtopic.php?f=93&t=26937",
+	"license" : "Creative Commons 3",
+	"name" : "StoneWaterWell",
+	"title" : "Stone Water Well for 2.0",
+	"version" : "2.20.2"
+}
